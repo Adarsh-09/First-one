@@ -11,8 +11,7 @@ int main() {
     int random_number = (rand() % 100) + 1; // number generated will be between 1 to 100 as we selected here .
     int no_of_guesses=0;
     int guessed; 
-    // Print the random nuber
-    //printf("Random number between 1 and 100: %d\n", random_number);
+
       
     do
     {
