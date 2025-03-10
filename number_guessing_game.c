@@ -1,4 +1,3 @@
-// Write a c program to guess the number which is generated randomly between 1 to 100.
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
